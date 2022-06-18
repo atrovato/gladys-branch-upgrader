@@ -1,0 +1,16 @@
+{
+  "name": "gladys-branch-upgrader",
+  "version": "1.0.0",
+  "description": "Upgrade Gladys working branches",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atrovato/gladys-branch-upgrader.git"
+  },
+  "author": "Alexandre Trovato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atrovato/gladys-branch-upgrader/issues"
+  },
+  "homepage": "https://github.com/atrovato/gladys-branch-upgrader#readme"
+}
