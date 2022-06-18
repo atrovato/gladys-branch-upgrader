@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Upgrade Gladys working branches",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/atrovato/gladys-branch-upgrader.git"
@@ -12,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/atrovato/gladys-branch-upgrader/issues"
   },
-  "homepage": "https://github.com/atrovato/gladys-branch-upgrader#readme"
+  "homepage": "https://github.com/atrovato/gladys-branch-upgrader#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "prompts": "^2.4.2",
+    "simple-git": "^3.7.1"
+  }
 }
